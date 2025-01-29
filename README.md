@@ -1,4 +1,4 @@
-# 2024-kreleases
+# 2024 Kreleases
 
 This Power BI project provides an insight into 2024 releases of Korean dramas, mini-series, and movies.
 Dataset is in .xlsx format.
